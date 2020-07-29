@@ -31,7 +31,7 @@ Research experience
 
 * Undergraduate research assistant (2011-2012)
   * Physics, NC State University
-  * Researched organic photovoltaics and thin film transistors through soft x-ray scattering to correlate morphology and device performance.  
+  * Researched organic photovoltaics and thin-film transistors through soft x-ray scattering to correlate morphology and device performance.  
   * Advisor: Dr. Harald Ade
   
 * Student intern (2006-2014)
@@ -43,7 +43,7 @@ Research experience
 
 Grants and awards
 ======
-* Leading Edge Fellow, selected as outstanding postdoc in the biomedical science, Leading Edge Symposium 2020
+* Leading Edge Fellow, selected as outstanding postdoc in the biomedical sciences, Leading Edge Symposium 2020
 * Ruth K. Broad Postdoctoral Fellowship, Ruth K. Broad Foundation (2019-2020)
 * Selected for Dynamic Poster at Neuroscience 2019
 * Fritz London Graduate Fellowship Prize, Duke University, Physics Dept. (2017-2018)
