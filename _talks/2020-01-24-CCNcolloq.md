@@ -8,4 +8,4 @@ date: 2020-03-01
 location: "Durham, NC"
 ---
 
-I discuss the need for adaptive experimental designs to leverage high-throughput neural data and novel interventional tools such as holographic photostimulation, and present new methods for practical streaming analysis and algorithms for automatically dissecting neural circuits. 
+I discuss the need for adaptive experimental designs to leverage high-throughput neural data and novel interventional tools such as holographic photostimulation and present new methods for practical streaming analysis and algorithms for automatically dissecting neural circuits. 
