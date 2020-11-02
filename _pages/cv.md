@@ -24,7 +24,7 @@ Research experience
   * Designing statistical methods for real-time analysis of neural data for adaptive interrogation and regulation of brain state. 
   * Advisor: Dr. John Pearson
 
-* Research assistant (2013-2018)
+* Graduate research assistant (2013-2018)
   * Physics, Duke University
   * Studied fundamental thermal and electronic transport properties in graphene Josephson junctions to elucidate superconducting mechanisms in 2D materials. 
   * Advisor: Dr. Gleb Finkelstein
@@ -43,6 +43,7 @@ Research experience
 
 Grants and awards
 ======
+* Swartz Foundation Fellow for Theory in Neuroscience (2020-present)
 * Leading Edge Fellow, selected as outstanding postdoc in the biomedical sciences, Leading Edge Symposium 2020
 * Ruth K. Broad Postdoctoral Fellowship, Ruth K. Broad Foundation (2019-2020)
 * Selected for Dynamic Poster at Neuroscience 2019
