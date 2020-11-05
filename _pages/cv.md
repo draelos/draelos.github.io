@@ -44,6 +44,7 @@ Research experience
 Grants and awards
 ======
 * Swartz Foundation Fellow for Theory in Neuroscience (2020-present)
+* Best Poster Award, IEEE Brain Workshop on Advanced NeuroTechnologies (2020)
 * Leading Edge Fellow, selected as outstanding postdoc in the biomedical sciences, Leading Edge Symposium 2020
 * Ruth K. Broad Postdoctoral Fellowship, Ruth K. Broad Foundation (2019-2020)
 * Selected for Dynamic Poster at Neuroscience 2019
