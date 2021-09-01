@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anne Draelos"
 title_separator          : "-"
 name                     : &name "Anne Draelos"
-description              : &description "Studying statistically efficient methods for real-time and adaptive neuroscience experiments."
+description              : &description "Developing statistically efficient methods for real-time and adaptive neuroscience experiments."
 url                      : https://draelos.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "draelos/draelos.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anne Draelos"
   avatar           : "anne.jpg"
-  bio              : "Studying statistically efficient methods for real-time and adaptive neuroscience experiments."
+  bio              : "Developing statistically efficient methods for real-time and adaptive neuroscience experiments."
   location         : "Durham, NC"
   employer         : "Duke University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/myncbi/anne.draelos.1/bibliography/public/"

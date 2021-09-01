@@ -13,4 +13,4 @@ I am a postdoc in the Pearson Lab at Duke University studying machine learning a
 
 I studied both physics and computer science as an undergraduate at NC State University. Following my love of understanding complex networks, I then did an ECE masters and physics PhD at Duke University, focusing on low temperature quantum transport. After graduation, I shifted focus to a field with even more complicated systems to try to detangle: neuroscience. 
 
-Outside of my research I enjoy reading, MMA, teaching my dog new tricks, and dancing with my husband.
+Outside of my research I enjoy reading, MMA, teaching my dogs new tricks, and dancing with my husband.

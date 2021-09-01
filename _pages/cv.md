@@ -21,29 +21,26 @@ Research experience
 ======
 * Postdoctoral associate (2018 - present)
   * Biostatistics & Bioinformatics, Duke University
-  * Designing statistical methods for real-time analysis of neural data for adaptive interrogation and regulation of brain state. 
-  * Advisor: Dr. John Pearson
+  * Designing statistical methods for real-time analysis of neural data for adaptive interrogation and regulation of brain state, advised by Dr. John Pearson.
 
 * Graduate research assistant (2013-2018)
   * Physics, Duke University
-  * Studied fundamental thermal and electronic transport properties in graphene Josephson junctions to elucidate superconducting mechanisms in 2D materials. 
-  * Advisor: Dr. Gleb Finkelstein
+  * Studied fundamental thermal and electronic transport properties in graphene Josephson junctions to elucidate superconducting mechanisms in 2D materials, advised by Dr. Gleb Finkelstein.
 
 * Undergraduate research assistant (2011-2012)
   * Physics, NC State University
-  * Researched organic photovoltaics and thin-film transistors through soft x-ray scattering to correlate morphology and device performance.  
-  * Advisor: Dr. Harald Ade
+  * Researched organic photovoltaics and thin-film transistors through soft x-ray scattering to correlate morphology and device performance, advised by Dr. Harald Ade.
   
 * Student intern (2006-2014)
   * Free Electron Laser division, Thomas Jefferson National Accelerator Facility
-  * Worked on optical simulations to increase laser power and efficiency for the design of novel optical cavities.   
-  * Advisor: Dr. Michelle Shinn
+  * Worked on optical simulations to increase laser power and efficiency for the design of novel optical cavities, advised by Dr. Michelle Shinn.
 <br/>
 <br/>
 
 Grants and awards
 ======
-* Swartz Foundation Fellow for Theory in Neuroscience (2020-present)
+* Career Award at the Scientific Interface, Burroughs Wellcome Fund (2021)
+* Swartz Foundation Fellow for Theory in Neuroscience (2020)
 * Best Poster Award, IEEE Brain Workshop on Advanced NeuroTechnologies (2020)
 * Leading Edge Fellow, selected as outstanding postdoc in the biomedical sciences, Leading Edge Symposium 2020
 * Ruth K. Broad Postdoctoral Fellowship, Ruth K. Broad Foundation (2019-2020)
