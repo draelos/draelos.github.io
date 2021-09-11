@@ -1,7 +1,7 @@
 # main links links
 main:
     
-  - title: "Research Projects"
+  - title: "Research"
     url: /research/
     
   - title: "Publications"
@@ -20,7 +20,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Mentoring & Outreach"
+  - title: "Mentoring"
     url: /mentoring/
     
   # - title: "Guide"

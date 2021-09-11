@@ -11,16 +11,16 @@ redirect_from:
 
 I am a postdoc in the Pearson Lab at Duke University studying machine learning and statistical techniques to facilitate real-time analysis of neural data. I am interested broadly in the design and construction of new measurement and analysis methods. 
 
-**I am currently on the job market this year, looking for tenure-track positions in neuroscience, BME, or physics.**
+**I am on the job market this year, looking for tenure-track positions in neuroscience, biomedical engineering, or physics.**
 
-I studied both physics and computer science as an undergraduate at NC State University. Following my love of understanding complex networks, I then did an ECE masters and physics PhD at Duke University, focusing on low temperature quantum transport. After graduation, I shifted focus to a field with even more complicated systems to try to detangle: neuroscience. 
+I studied both physics and computer science as an undergraduate at NC State University. Following my love of understanding complex networks, I then did an electrical & computer engineering masters and physics PhD at Duke University, focusing on low temperature quantum transport. After graduation, I shifted focus to a field with even more complicated systems to detangle: neuroscience. 
 
 Outside of my research I enjoy reading, MMA, teaching my dogs new tricks, and dancing with my husband.
 
 
 ## Recent News
 
-June 29, 2021: I am excited to announce that I have been awarded a 2021 Career Awards at the Scientific Interface by the Burroughs Wellcome Fund!  See the announcement [here](https://www.bwfund.org/news/2021-career-award-at-the-scientific-interfaces-recipients-announced/). 
+June 29, 2021: I am excited to announce that I have been awarded a 2021 Career Awards at the Scientific Interface by the Burroughs Wellcome Fund.  See the announcement [here](https://www.bwfund.org/news/2021-career-award-at-the-scientific-interfaces-recipients-announced/). 
 
 
 June 16, 2021: Come check out my poster and trainee award talk at the [2021 BRAIN Investigators Meeting](https://www.brainmeeting2021.com/). I would love to chat with researchers interested in running adaptive experimental designs in their own labs.
