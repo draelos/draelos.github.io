@@ -6,7 +6,7 @@ excerpt: 'We compare 2D, 3D, and 4D free-electron laser (FEL) oscillator simulat
 performances of three oscillator FELs.'
 date: 2012-08-26
 venue: '34th International Free Electron Laser Conference'
-citation: 'Shinn, M.D., Benson, S.V., Watson, A.M., van der Slot, P.J., Freund, H.P. and Nguyen, D.C. (2012). "A new approach to improving the efficiency of fel oscillator simulations." In 34th International Free-Electron Laser Conference (pp. 225-228).'
+citation: 'Shinn, M.D., Benson, S.V.,<strong>Watson, A.M.</strong>, van der Slot, P.J., Freund, H.P. and Nguyen, D.C. (2012). "A new approach to improving the efficiency of fel oscillator simulations." In 34th International Free-Electron Laser Conference (pp. 225-228).'
 ---
 We compare 2D, 3D, and 4D free-electron laser (FEL) oscillator simulation codes against the measured
 performances of three oscillator FELs.
