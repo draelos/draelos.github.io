@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a postdoc in the Pearson Lab at Duke University studying machine learning and statistical techniques to facilitate real-time analysis of neural data. I am interested broadly in the design and construction of new measurement and analysis methods. 
+I am a postdoc in the Pearson Lab at Duke University studying machine learning and statistical techniques to facilitate real-time analysis of neural data. I am interested broadly in the design and construction of new measurement and analysis methods in the streaming setting. 
 
-**I am on the job market this year, looking for tenure-track positions in neuroscience, biomedical engineering, or physics.**
+**I am starting my own lab at the University of Michigan in January 2023. I will be recruiting for my lab soon - feel free to reach out if you are interested!**
 
 I studied both physics and computer science as an undergraduate at NC State University. Following my love of understanding complex networks, I then did an electrical & computer engineering masters and physics PhD at Duke University, focusing on low temperature quantum transport. After graduation, I shifted focus to a field with even more complicated systems to detangle: neuroscience. 
 
